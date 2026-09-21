@@ -6,13 +6,13 @@ resources:
 images:
 - name: PROJECT/BROADCASTER
   newName: europe-north1-docker.pkg.dev/dwk-gke-233649/dwk-repository/broadcaster
-  newTag: 83cceb810eaf5d877f9320e0abbd180f2c7e4643
+  newTag: d243eecd66cb8ec16713313715f53e442fa46cfd
 - name: PROJECT/TODO_APP
   newName: europe-north1-docker.pkg.dev/dwk-gke-233649/dwk-repository/todo-app
-  newTag: 83cceb810eaf5d877f9320e0abbd180f2c7e4643
+  newTag: d243eecd66cb8ec16713313715f53e442fa46cfd
 - name: PROJECT/TODO_BACKEND
   newName: europe-north1-docker.pkg.dev/dwk-gke-233649/dwk-repository/todo-backend
-  newTag: 83cceb810eaf5d877f9320e0abbd180f2c7e4643
+  newTag: d243eecd66cb8ec16713313715f53e442fa46cfd
 - name: PROJECT/TODO_CRON
   newName: europe-north1-docker.pkg.dev/dwk-gke-233649/dwk-repository/todo-cron
-  newTag: 83cceb810eaf5d877f9320e0abbd180f2c7e4643
+  newTag: d243eecd66cb8ec16713313715f53e442fa46cfd
